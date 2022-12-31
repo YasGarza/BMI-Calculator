@@ -39,8 +39,8 @@
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1.72 m" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iOp-D0-ehI">
-                                                <rect key="frame" x="323" y="17" width="51" height="19"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="1.5m" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="iOp-D0-ehI">
+                                                <rect key="frame" x="335.5" y="17" width="38.5" height="19"/>
                                                 <fontDescription key="fontDescription" name="Galvji" family="Galvji" pointSize="16"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -50,7 +50,7 @@
                                             <constraint firstAttribute="height" constant="36" id="eh0-q4-VP7"/>
                                         </constraints>
                                     </stackView>
-                                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="wg3-8B-Dm7" userLabel="Height Slider">
+                                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="1.5" minValue="0.0" maxValue="3" translatesAutoresizingMaskIntoConstraints="NO" id="wg3-8B-Dm7" userLabel="Height Slider">
                                         <rect key="frame" x="-2" y="562" width="378" height="71"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="70" id="yfB-A5-DT8"/>
@@ -67,8 +67,8 @@
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="96.5 Kg" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="umf-W9-Zxk">
-                                                <rect key="frame" x="314" y="17" width="60" height="19"/>
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="100Kg" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="umf-W9-Zxk">
+                                                <rect key="frame" x="324.5" y="17" width="49.5" height="19"/>
                                                 <fontDescription key="fontDescription" name="Galvji" family="Galvji" pointSize="16"/>
                                                 <nil key="textColor"/>
                                                 <nil key="highlightedColor"/>
@@ -78,7 +78,7 @@
                                             <constraint firstAttribute="height" constant="36" id="Sna-bE-28k"/>
                                         </constraints>
                                     </stackView>
-                                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="0.5" minValue="0.0" maxValue="1" translatesAutoresizingMaskIntoConstraints="NO" id="0FL-8G-p1p">
+                                    <slider opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" value="100" minValue="0.0" maxValue="200" translatesAutoresizingMaskIntoConstraints="NO" id="0FL-8G-p1p">
                                         <rect key="frame" x="-2" y="668" width="378" height="71"/>
                                         <constraints>
                                             <constraint firstAttribute="height" constant="70" id="ufz-dv-FJc"/>
